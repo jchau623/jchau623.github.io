@@ -1,16 +1,19 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Projects
+  url: /projects/
 
-- title: Blog
-  url: /blog/
+- title: Opinions
+  url: /opinions/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Dev Diaries
+  url: /dev-diaries/
 
-- title: Search
-  url: /search/
+- title: Life Diaries
+  url: /life-diaries/

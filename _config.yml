@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Site Title
+title: Justin Chau
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Aspiring software developer and... a writer?
+# logo: site-logo.png
+logo: 
 search: true
-url: http://localhost:4000
+# url: http://127.0.0.1:4000
+url: https://jchau623.github.io
 
 # Jekyll configuration
 
@@ -36,17 +38,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Justin Chau
+  avatar: bio-photo.png
+  email: hello@justinchau.ca
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: jchau623
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
+  linkedin: chaujustin
+  instagram: justinkchau
+  flickr: justinchau
   tumblr: #username
   pinterest: #username
   weibo: #userid
